@@ -1,0 +1,15 @@
+*.exe
+*.ilk
+*.pdb
+*.sdf
+*.sln
+*.tlog
+*.log
+*.doc
+*.vcxproj
+*.filters
+*.user
+*.pyc
+[Dd]ebug*/
+.idea/
+ipch/
